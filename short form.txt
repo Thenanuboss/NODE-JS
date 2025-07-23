@@ -1,0 +1,13 @@
+padding p = 1 to 5 value 
+direct p four side 
+up down py
+right left px
+top pt
+bottom pb
+
+gap
+gy = 1 to 5
+
+
+
+

@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    /* list-style: none; */
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(229, 217, 242);
+    
+}
+
+.nav-item {
+    /* margin-left: 150px; */
+padding-left: 150px;
+
+}
+
+.about {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 50px;
+    background-color: rgb(229, 217, 242);
+}
+.about1 {
+    /* margin-top: 15px; */
+}
+h2 {
+    padding-top: 8px;
+    text-align: center;
+    background-color: rgb(205, 193, 255);
+    height: 80px;
+    color: white;
+    font-size: 50px;
+}
+.shape {
+    font-size: larger;
+}
+
+.service {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+  
+
+.card-title {
+    text-align: center;
+}
+
+.ours{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 34px;
+    gap: 150px;
+    background-color: rgb(229, 217, 242);
+}
+
+h3 {
+    text-align: center;
+}
+.contact {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    align-items: center;
+    background-color:  rgb(229, 217, 242);
+}
+
+button{
+    background-color: rgb(205, 193, 255);
+    height: 40px;
+    width: 70px;
+    border: 0;
+    border-radius: 2px;
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+    
+}
+
+footer {
+    background-color:  rgb(229, 217, 242);
+    height: 500px;
+}
+
