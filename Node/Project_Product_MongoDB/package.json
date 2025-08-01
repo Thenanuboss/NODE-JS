@@ -1,0 +1,19 @@
+{
+  "name": "project_product_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Hardik Makwana",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon index"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
